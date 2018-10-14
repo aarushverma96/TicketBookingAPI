@@ -1,10 +1,10 @@
-## Udaan Developer Hiring Challange Solution##
+## Udaan Developer Hiring Challange Solution
 
 
 ----------
 
 
-### Tech Stack Used: ###
+### Tech Stack Used:
 
  1. Python 3  
  2. Django
